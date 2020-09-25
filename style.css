@@ -1,0 +1,23 @@
+body{
+  background-color: #e97171;
+}
+hr{
+  background-color: white;
+  border-style:none;
+  width:100%;
+}
+h1{
+  color: #1a1c20;
+}
+h3{
+  color: #00416d;
+}
+h2{
+  color: #00416d;
+}
+circular{
+  border-radius: 100%;
+}
+image:hover{
+  background-color: gold;
+}
